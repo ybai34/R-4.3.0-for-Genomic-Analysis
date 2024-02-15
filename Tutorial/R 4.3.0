@@ -1,7 +1,7 @@
 You could download R 4.3.0 from this website: https://cran.rstudio.com/
 
-Using Index of /src/base/R-4 , downloading R-4.3.0.tar.gz
+Using https://cran.r-project.org/bin/windows/base/old/ , downloading R 4.3.0 (April, 2023)
 
-Or using https://cran.r-project.org/bin/windows/base/old/ , downloading R 4.3.0 (April, 2023)
+Or using Index of /src/base/R-4 , downloading R-4.3.0.tar.gz
 
 Remember using administrator mode to unzip it.
